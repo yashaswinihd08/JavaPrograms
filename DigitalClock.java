@@ -1,3 +1,5 @@
+//Java Program to display the current timings in a Digital Clock (GUI) using Swing
+
 import javax.swing.*;
 import java.awt.*;
 import java.text.SimpleDateFormat;
