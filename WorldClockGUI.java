@@ -126,6 +126,8 @@ class ClockPanel extends JPanel {
         return String.format("%02d:%02d:%02d", calendar.get(Calendar.HOUR), calendar.get(Calendar.MINUTE), calendar.get(Calendar.SECOND));
     }
 } */
+
+//Thick Border anf light grey color clock
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
